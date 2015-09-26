@@ -1,0 +1,16 @@
+{
+  "name": "chess",
+  "version": "0.0.1",
+  "devDependencies": {
+    "babel-loader": "^5.3.2",
+    "express": "^4.13.3",
+    "gitbook-cli": "^0.3.6",
+    "gulp": "^3.9.0",
+    "gulp-shell": "^0.4.3",
+    "gulp-util": "^3.0.6",
+    "mongoose": "^4.1.8",
+    "node-restful": "^0.2.2",
+    "path": "^0.12.7",
+    "webpack": "^1.12.2"
+  }
+}
